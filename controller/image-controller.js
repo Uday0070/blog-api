@@ -1,7 +1,7 @@
 import grid from 'gridfs-stream'
 import mongoose from 'mongoose'
 
-const url = 'https://blog-h1ujk4qbz-uday-kiran-rs-projects.vercel.app/'
+const url = 'https://blog-api-ashen-pi.vercel.app'
 const conn = mongoose.connection;
 
 let gfs, gridfsBucket;
